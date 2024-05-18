@@ -3,7 +3,7 @@
 }
 
 body {
-	background-color: rgb(200, 200, 200); /* white, #FFFFFF */
+	background-color: rgb(200, 200, 200); /* grigio, #FFFFFF */
 	padding: 2em;
 	margin: 0;
 	font-family: "Inter", sans-serif;
@@ -43,7 +43,7 @@ section {
 }
 
 .filetto {
-	border-top: solid 1px black;
+	border-top: solid 1px hsl(301, 100%, 50%);
 }
 
 .titolo-sezione {

@@ -3,7 +3,7 @@
 }
 
 body {
-	background-color: rgb(200, 200, 200); /* grigio, #FFFFFF */
+	background-color: rgb(245, 245, 245); /* grigio, #CCCCCC */
 	padding: 2em;
 	margin: 0;
 	font-family: "Inter", sans-serif;
@@ -23,8 +23,14 @@ h1 {
 	font-size: 3em;
 }
 
+h3 {
+	margin: 0;
+	font-size: 1.1em;
+}
+
 h4 {
 	margin: 0;
+	
 }
 
 iframe {
@@ -43,7 +49,7 @@ section {
 }
 
 .filetto {
-	border-top: solid 1px hsl(301, 100%, 50%);
+	border-top: solid 2px hsl(0, 0%, 0%);
 }
 
 .titolo-sezione {
